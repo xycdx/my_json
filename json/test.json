@@ -1,0 +1,136 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "mid": 883877,
+        "name": "Rofix",
+        "sex": "保密",
+        "face": "https://i2.hdslb.com/bfs/face/26d219580b1d1d50a216eb7b7c8cfd11803a3810.jpg",
+        "face_nft": 0,
+        "face_nft_type": 0,
+        "sign": "CG动画设计师，前腾讯主美，UCLA\u0026RISD毕业",
+        "rank": 10000,
+        "level": 6,
+        "jointime": 0,
+        "moral": 0,
+        "silence": 0,
+        "coins": 0,
+        "fans_badge": true,
+        "fans_medal": {
+            "show": false,
+            "wear": false,
+            "medal": null
+        },
+        "official": {
+            "role": 1,
+            "title": "bilibili 知名UP主",
+            "desc": "",
+            "type": 0
+        },
+        "vip": {
+            "type": 1,
+            "status": 1,
+            "due_date": 1676217600000,
+            "vip_pay_type": 1,
+            "theme_type": 0,
+            "label": {
+                "path": "",
+                "text": "大会员",
+                "label_theme": "vip",
+                "text_color": "#FFFFFF",
+                "bg_style": 1,
+                "bg_color": "#FB7299",
+                "border_color": "",
+                "use_img_label": true,
+                "img_label_uri_hans": "",
+                "img_label_uri_hant": "",
+                "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/3788b674c69072f1ee252b79a31ecc8c43af3039.png",
+                "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/jwXBWRVwa5.png"
+            },
+            "avatar_subscript": 1,
+            "nickname_color": "",
+            "role": 1,
+            "avatar_subscript_url": "",
+            "tv_vip_status": 0,
+            "tv_vip_pay_type": 0
+        },
+        "pendant": {
+            "pid": 0,
+            "name": "",
+            "image": "",
+            "expire": 0,
+            "image_enhance": "",
+            "image_enhance_frame": ""
+        },
+        "nameplate": {
+            "nid": 1,
+            "name": "黄金殿堂",
+            "image": "https://i1.hdslb.com/bfs/face/82896ff40fcb4e7c7259cb98056975830cb55695.png",
+            "image_small": "https://i1.hdslb.com/bfs/face/627e342851dfda6fe7380c2fa0cbd7fae2e61533.png",
+            "level": "稀有勋章",
+            "condition": "单个自制视频总播放数\u003e=100万"
+        },
+        "user_honour_info": {
+            "mid": 0,
+            "colour": null,
+            "tags": []
+        },
+        "is_followed": false,
+        "top_photo": "http://i2.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png",
+        "theme": {},
+        "sys_notice": {},
+        "live_room": {
+            "roomStatus": 1,
+            "liveStatus": 0,
+            "url": "https://live.bilibili.com/7586498?broadcast_type=0\u0026is_room_feed=0",
+            "title": "首次开播，请多关照！",
+            "cover": "https://i0.hdslb.com/bfs/live/875dfffb67271c5c80fd18f143b7b369d7d83390.png",
+            "roomid": 7586498,
+            "roundStatus": 0,
+            "broadcast_type": 0,
+            "watched_show": {
+                "switch": true,
+                "num": 2,
+                "text_small": "2",
+                "text_large": "2人看过",
+                "icon": "https://i0.hdslb.com/bfs/live/a725a9e61242ef44d764ac911691a7ce07f36c1d.png",
+                "icon_location": "",
+                "icon_web": "https://i0.hdslb.com/bfs/live/8d9d0f33ef8bf6f308742752d13dd0df731df19c.png"
+            }
+        },
+        "birthday": "",
+        "school": {
+            "name": ""
+        },
+        "profession": {
+            "name": "",
+            "department": "",
+            "title": "",
+            "is_show": 0
+        },
+        "tags": null,
+        "series": {
+            "user_upgrade_status": 3,
+            "show_upgrade_window": false
+        },
+        "is_senior_member": 0,
+        "mcn_info": null,
+        "gaia_res_type": 0,
+        "gaia_data": null,
+        "is_risk": false,
+        "elec": {
+            "show_info": {
+                "show": true,
+                "state": 2,
+                "title": "为TA充电",
+                "icon": "",
+                "jump_url": "https://www.bilibili.com/h5/upower/index?mid=883877\u0026navhide=1"
+            }
+        },
+        "contract": {
+            "is_display": false,
+            "is_follow_display": false
+        }
+    }
+}
